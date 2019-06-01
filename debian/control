@@ -1,0 +1,24 @@
+Source: fonts-hermit
+Section: fonts
+Priority: optional
+Maintainer: Marcel Kapfer <opensource@mmk2410.org>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.8
+Homepage: https://pcaro.es/p/hermit/
+
+Package: fonts-hermit
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: Hermit is a monospace font designed to be clear, pragmatic and very readable.
+ The creation of Hermit has been focused on programming. Every glyph was
+ carefully planned and calculated, according to defined principles and rules.
+ For this reason, Hermit is coherent and regular.
+ .
+ Symbols stand out from common text. Dots and commas are easily seen, and
+ operators are clear even when not surrounded by spaces. Similar characters
+ have been designed to be very distinguishable from each other.
+ .
+ It comes in regular, bold and light variants, including italic for every weigt.
+ The coverage is a big part of the Latin character set and it includes Powerline
+ symbols.
